@@ -185,7 +185,7 @@ head{
 }
 
 .comments{
-    margin-top: 63px;
+    margin-top: 64px;
     margin-left: auto;
     margin-right: auto;
     width: 762px;
@@ -243,4 +243,32 @@ head{
     width: 49px;
     height: 49px;
     flex-shrink: 0; 
+}
+
+.separatorline{
+    margin-left: 54px;
+    margin-top: 14px;
+}
+
+.users{
+
+    margin-left: 54px;
+    margin-right: 54px;
+    color: var(--title, #3A4F9A);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 20px; 
+    letter-spacing: 1.6px;
+}
+
+.span{
+    color: var(--gray, #575757);
+    font-family: Inter;
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 200;
+    line-height: 20px;
+    letter-spacing: 1.6px;
 }
