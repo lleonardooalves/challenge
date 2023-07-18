@@ -272,3 +272,25 @@ head{
     line-height: 20px;
     letter-spacing: 1.6px;
 }
+
+.btn{
+    position: fixed;
+}
+
+.bar{
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+::-webkit-scrollbar{
+    width: 13px;
+    height: 637px;
+    flex-shrink: 0;
+}
+
+::-webkit-scrollbar-thumb{
+    border-radius: 4px;
+    background: rgba(58, 79, 154, 0.30);
+
+}
