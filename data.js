@@ -1,3 +1,2 @@
-"use strict";
-const a = 'Leonardo';
+var a = 'Leonardo';
 console.log(a);
